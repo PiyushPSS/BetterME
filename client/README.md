@@ -1,25 +1,57 @@
-# Yola
+# BetterME Client
 
-The yoga website, built using React and Tailwind, provides company information with a dynamic counter, showcases an inspiring video modal linking to our YouTube channel, and offers an overview of popular courses. Additionally, it features flexible pricing plans, a newsletter signup form, and a contact form.
+Welcome to the BetterME Client project! This README will guide you through the setup and usage of the project.
 
-## Tech Stack
+## Table of Contents
 
-Yarn Vite React Tailwind
+- [BetterME Client](#betterme-client)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-## Demo
+## Introduction
 
-LIVE: [Yola](https://hrs-yola.netlify.app/)
+BetterME Client is a project aimed at improving user experience by providing a seamless interface for managing personal development tasks.
 
-## Screenshot
+## Features
 
-<img src="/src/assets/img/hrs-yola.netlify.app-full-2.png" width="800">
+- User-friendly interface
+- Task management
+- Progress tracking
+- Notifications and reminders
 
-## Author
+## Installation
 
-### Hubert Śleszyński
+To install the project, follow these steps:
 
-Portfolio: https://hrs-dev.netlify.app/
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/PiyushPSS/BetterME.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd BetterME/client
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+## Usage
 
-Github: https://github.com/HubertSleszynski
+To start the project, run the following command:
+```bash
+npm start
+```
+
+## Contributing
+
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
